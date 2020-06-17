@@ -3,35 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ab6287a9-e05c-4984-9cc0-1358e97d5875" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/.idea/homeplanify.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/src/Components/Navbar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/homeplanify/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeplanify/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeplanify/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeplanify/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeplanify/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-end/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end/index.htm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -55,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -107,10 +82,18 @@
       <workItem from="1592132873428" duration="611000" />
       <workItem from="1592140059251" duration="2038000" />
       <workItem from="1592318735239" duration="1685000" />
+      <workItem from="1592324946476" duration="2240000" />
+      <workItem from="1592334041044" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="0" key="#HomePlanify" timestamp="1592324965959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#HomePlanify/0.0.1366.728@0.0.1366.728" timestamp="1592324965959" />
   </component>
 </project>
